@@ -1,6 +1,6 @@
 {
   "name": "use-screen-details",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "React hook to get details of the screen",
   "main": "dist/useScreenDetails.js",
   "files": [
